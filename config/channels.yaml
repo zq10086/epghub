@@ -1,23 +1,5 @@
 # Channel list
 ---
-qzxwtv:
-  name:
-    - 衢州新闻
-  scraper:
-    tvmao: "QZTV-1"
-  refresh: once
-  recap: 7
-  preview: 2
-
-qzggtv:
-  name:
-    - 衢州公共
-  scraper:
-    tvmao: 'QZTV-2'
-  refresh: once
-  recap: 7
-  preview: 2
-
 jhxwzhtv:
   name:
     - 金华新闻综合
@@ -158,24 +140,6 @@ zjjxggtv:
     - 嘉兴公共频道
   scraper:
     tvmao: JIAXINTV3
-  refresh: once
-  recap: 7
-  preview: 2
-
-zjzszhtv:
-  name:
-    - 舟山新闻综合
-  scraper:
-    tvmao: ZJZS-ZH
-  refresh: once
-  recap: 7
-  preview: 2
-
-zjzsggtv:
-  name:
-    - 舟山公共
-  scraper:
-    tvmao: ZJZS-LIFE
   refresh: once
   recap: 7
   preview: 2
