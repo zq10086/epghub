@@ -4,7 +4,7 @@ qzxwtv:
   name:
     - 衢州新闻
   scraper:
-    tvmao: QZTV-1
+    tvmao: "QZTV-1"
   refresh: once
   recap: 7
   preview: 2
@@ -13,7 +13,7 @@ qzggtv:
   name:
     - 衢州公共
   scraper:
-    tvmao: QZTV-2
+    tvmao: 'QZTV-2'
   refresh: once
   recap: 7
   preview: 2
