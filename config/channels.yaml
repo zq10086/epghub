@@ -1,158 +1,181 @@
 # Channel list
 ---
-cctv1:
+qzxwtv:
   name:
-    - CCTV1 综合
+    - 衢州新闻
   scraper:
-    cctv:
+    tvmao: QZTV-1
   refresh: once
   recap: 7
   preview: 2
 
-cctv5:
+qzggtv:
   name:
-    - CCTV5 体育
+    - 衢州公共
   scraper:
-    cctv:
+    tvmao: QZTV-2
   refresh: once
   recap: 7
   preview: 2
 
-cctv5+:
+jhxwzhtv:
   name:
-    - CCTV5+ 体育赛事
+    - 金华新闻综合
   scraper:
-    cctv: cctv5plus
+    tvmao: JINHUATV1
   refresh: once
   recap: 7
   preview: 2
 
-cctv6:
+jhjykjtv:
   name:
-    - CCTV6 电影
+    - 金华教育科技
   scraper:
-    cctv:
+    tvmao: JINHUATV2
   refresh: once
   recap: 7
   preview: 2
 
-cctv8:
+jhggpdtv:
   name:
-    - CCTV8 电视剧
+    - 金华公共频道
   scraper:
-    cctv:
+    tvmao: JINHUATV3
   refresh: once
   recap: 7
   preview: 2
 
-cctv9:
+lsxwtv:
   name:
-    - CCTV9 纪录
+    - 丽水新闻
   scraper:
-    cctv: cctvjilu
-  plugin: weibo_cctv9
-  refresh: today
-  recap: 7
-  preview: 2
-
-cctv10:
-  name:
-    - CCTV10 科教
-  scraper:
-    cctv:
+    tvmao: LSXW
   refresh: once
   recap: 7
   preview: 2
 
-cctv13:
+lsggtv:
   name:
-    - CCTV13 新闻
+    - 丽水公共
   scraper:
-    cctv:
+    tvmao: LSGG
   refresh: once
   recap: 7
   preview: 2
 
-cctv16:
+wzxwtv:
   name:
-    - CCTV16 奥林匹克
+    - 温州新闻综合
   scraper:
-    cctv:
+    tvmao: WZTV1
   refresh: once
   recap: 7
   preview: 2
 
-cctv4k:
+ningbo1tv:
   name:
-    - CCTV4K 超高清
+    - 宁波1
   scraper:
-    cctv:
+    tvmao: NBTV1
   refresh: once
   recap: 7
   preview: 2
 
-cctv8k:
+ningbo2tv:
   name:
-    - CCTV8K 超高清
+    - 宁波2
   scraper:
-    cctv:
+    tvmao: NBTV2
   refresh: once
   recap: 7
   preview: 2
 
-zhejiangtv:
+ningbo3tv:
   name:
-    - 浙江卫视
+    - 宁波3
   scraper:
-    tvmao: ZJTV1
-    cctv: zhejiang
+    tvmao: NBTV3
   refresh: once
   recap: 7
   preview: 2
 
-hunantv:
+ningbo4tv:
   name:
-    - 湖南卫视
+    - 宁波4
   scraper:
-    tvmao: HUNANTV2
-    cctv: hunan
+    tvmao: NBTV4
   refresh: once
   recap: 7
   preview: 2
 
-zjdj:
+zjhzzhtv:
   name:
-    - 之江纪录
+    - 湖州综合
   scraper:
-    cztv: 112
+    tvmao: HUZHOUTV1
   refresh: once
   recap: 7
   preview: 2
 
-htv:
+zjhzwhtv:
   name:
-    - 杭州综合
+    - 湖州文化
   scraper:
-    tvsou: 630175b5
+    tvmao: HUZHOUTV2
   refresh: once
   recap: 7
   preview: 2
 
-PhoenixChineseChannel.hk:
+zjhzggtv:
   name:
-    - 凤凰卫视中文
+    - 湖州公共
   scraper:
-    mytvsuper: PCC
-  lang: tc
+    tvmao: HUZHOUTV3
   refresh: once
   recap: 7
   preview: 2
 
-DiscoveryChannelAsia.tw:
+zjjxxwtv:
   name:
-    - 探索频道亚洲
+    - 嘉兴新闻综合
   scraper:
-    discoverychannel_tw: 4
+    tvmao: JIAXINTV1
+  refresh: once
+  recap: 7
+  preview: 2
+
+zjjxwhtv:
+  name:
+    - 嘉兴文化影视
+  scraper:
+    tvmao: JIAXINTV2
+  refresh: once
+  recap: 7
+  preview: 2
+
+zjjxggtv:
+  name:
+    - 嘉兴公共频道
+  scraper:
+    tvmao: JIAXINTV3
+  refresh: once
+  recap: 7
+  preview: 2
+
+zjzszhtv:
+  name:
+    - 舟山新闻综合
+  scraper:
+    tvmao: ZJZS-ZH
+  refresh: once
+  recap: 7
+  preview: 2
+
+zjzsggtv:
+  name:
+    - 舟山公共
+  scraper:
+    tvmao: ZJZS-LIFE
   refresh: once
   recap: 7
   preview: 2
