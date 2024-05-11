@@ -32,7 +32,7 @@ def update(
     if delta.days > 0:
         if delta.days > 6 - now_weekday:
             return False
-    id_split = scraper_id.split("")
+    id_split = scraper_id.split(" ")
     if len(id_split) == 2:
         id = id_split[1]
     elif len(id_split) == 3:
