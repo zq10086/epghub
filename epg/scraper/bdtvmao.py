@@ -1,8 +1,11 @@
-from epg.model import Channel, Program
-from datetime import datetime, date, timezone
 import requests
+import time
 import json
-from . import headers, tz_shanghai
+from datetime import date, datetime, timedelta
+from epg.scraper import headers
+from epg.model import Channel, Program
+from . import tz_shanghai
+
 
 def update(
     channel: Channel, scraper_id: str | None = None, dt: date = datetime.today().date()
@@ -33,7 +36,8 @@ def update(
         starttime_str = program['times', '']
         starttime = (
             datetime.strptime(starttime_str, "%Y/%m/%d %H:%M")
-            .astimezone(tz_shanghai)        
+            .astimezone(tz_shanghai)
+        
         )
         if temp_program != None:
             temp_program.end_time = starttime
