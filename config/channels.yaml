@@ -1,5 +1,23 @@
 # Channel list
 ---
+cctv4:
+  name:
+    - CCTV1 综合
+  scraper:
+    bdtvmao: CCTV4
+  refresh: once
+  recap: 7
+  preview: 2
+
+qzxwtv:
+  name:
+    - 衢州新闻综合
+  scraper:
+    bdtvmao: 衢州新闻综合
+  refresh: once
+  recap: 7
+  preview: 2
+
 qzxwtv:
   name:
     - 衢州新闻
