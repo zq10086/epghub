@@ -2,7 +2,7 @@
 ---
 cctv4:
   name:
-    - CCTV1 综合
+    - CCTV4
   scraper:
     bdtvmao: CCTV4
   refresh: once
