@@ -179,3 +179,57 @@ zjzsggtv:
   refresh: today
   recap: 7
   preview: 2
+
+zjmstv:
+  name:
+    - 浙江民生
+  scraper:
+    xmltv: 浙江民生@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
+  refresh: today
+  recap: 7
+  preview: 2
+
+zjjjshtv:
+  name:
+    - 浙江经济生活
+  scraper:
+    xmltv: 浙江经济生活@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
+  refresh: today
+  recap: 7
+  preview: 2
+
+zjjkystv:
+  name:
+    - 浙江教科影视
+  scraper:
+    xmltv: 浙江教科影视@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
+  refresh: today
+  recap: 7
+  preview: 2
+
+zjqjdstv:
+  name:
+    - 浙江钱江都市
+  scraper:
+    xmltv: 浙江钱江都市@hhttps://zqzq81.serv00.net/diyp/epg.php?ch=xml
+  refresh: today
+  recap: 7
+  preview: 2
+
+zjsetv:
+  name:
+    - 浙江少儿
+  scraper:
+    xmltv: 浙江少儿@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
+  refresh: today
+  recap: 7
+  preview: 2
+
+zjggtv:
+  name:
+    - 浙江公共新闻
+  scraper:
+    xmltv: 浙江公共新闻@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
+  refresh: today
+  recap: 7
+  preview: 2
