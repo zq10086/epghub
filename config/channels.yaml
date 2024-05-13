@@ -185,7 +185,7 @@ zjmstv:
     - 浙江民生
   scraper:
     xmltv: 浙江民生@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -194,7 +194,7 @@ zjjjshtv:
     - 浙江经济生活
   scraper:
     xmltv: 浙江经济生活@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -203,7 +203,7 @@ zjjkystv:
     - 浙江教科影视
   scraper:
     xmltv: 浙江教科影视@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -212,7 +212,7 @@ zjqjdstv:
     - 浙江钱江都市
   scraper:
     xmltv: 浙江钱江都市@hhttps://zqzq81.serv00.net/diyp/epg.php?ch=xml
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -221,7 +221,7 @@ zjsetv:
     - 浙江少儿
   scraper:
     xmltv: 浙江少儿@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -230,6 +230,6 @@ zjggtv:
     - 浙江公共新闻
   scraper:
     xmltv: 浙江公共新闻@https://zqzq81.serv00.net/diyp/epg.php?ch=xml
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
