@@ -5,7 +5,7 @@ qzxwtv:
     - 衢州新闻
   scraper:
     tvmao: QZTV-1
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -14,7 +14,7 @@ qzggtv:
     - 衢州公共
   scraper:
     tvmao: QZTV-2
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -23,7 +23,7 @@ jhxwzhtv:
     - 金华新闻综合
   scraper:
     tvmao: JINHUATV1
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -32,7 +32,7 @@ jhjykjtv:
     - 金华教育科技
   scraper:
     tvmao: JINHUATV2
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -41,7 +41,7 @@ jhggpdtv:
     - 金华公共频道
   scraper:
     tvmao: JINHUATV3
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -50,7 +50,7 @@ lsxwtv:
     - 丽水新闻
   scraper:
     tvmao: LSXW
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -59,7 +59,7 @@ lsggtv:
     - 丽水公共
   scraper:
     tvmao: LSGG
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -68,7 +68,7 @@ wzxwtv:
     - 温州新闻综合
   scraper:
     tvmao: WZTV1
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -113,7 +113,7 @@ zjhzzhtv:
     - 湖州综合
   scraper:
     tvmao: HUZHOUTV1
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -122,7 +122,7 @@ zjhzwhtv:
     - 湖州文化
   scraper:
     tvmao: HUZHOUTV2
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -131,7 +131,7 @@ zjhzggtv:
     - 湖州公共
   scraper:
     tvmao: HUZHOUTV3
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -140,7 +140,7 @@ zjjxxwtv:
     - 嘉兴新闻综合
   scraper:
     tvmao: JIAXINTV1
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -149,7 +149,7 @@ zjjxwhtv:
     - 嘉兴文化影视
   scraper:
     tvmao: JIAXINTV2
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -158,7 +158,7 @@ zjjxggtv:
     - 嘉兴公共频道
   scraper:
     tvmao: JIAXINTV3
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -167,7 +167,7 @@ zjzszhtv:
     - 舟山新闻综合
   scraper:
     tvmao: ZJZS-ZH
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
 
@@ -176,6 +176,6 @@ zjzsggtv:
     - 舟山公共
   scraper:
     tvmao: ZJZS-LIFE
-  refresh: today
+  refresh: once
   recap: 7
   preview: 2
